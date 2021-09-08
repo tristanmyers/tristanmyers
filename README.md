@@ -7,7 +7,7 @@ while still making a functional, beautiful program.***
 
 ### What I'm working on
 - I'm currently working on a website that features ecommerce, is being built with svelte, node/express, and some kind of non-relational database.
-- A web app that will improve my experience as a viewer on twitch, being built with python backend, I haven't decided on the frontend yet.
+- A mobile web app that will improve my experience as a viewer on [twitch.tv](https://twitch.tv), being built with python backend, I haven't decided on the frontend yet.
 
 ### What I'm learning
 1. Svelte
