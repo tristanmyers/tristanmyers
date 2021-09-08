@@ -1,16 +1,23 @@
-### Hi there 👋
+### I'm practicing the development of modern websites and webapps
+***I focus on choosing the right tools for the job and writing the most optimized, readable code
+<br>
+while still making a functional, beautiful program.***
 
-<!--
-**tristanmyers/tristanmyers** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### What I'm working on
+- I'm currently working on a website that features ecommerce, is being built with svelte, node/express, and some kind of non-relational database.
+- A web app that will improve my experience as a viewer on twitch, being built with python backend, I haven't decided on the frontend yet.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I'm learning
+1. Svelte
+2. Typescript
+3. Website accessibility techniques
+4. Better code optimization.
+5. Blender
+6. Unity
+
+### You can contact me about
+- Job opportunities
+- Collab on a project
+- To make a friend 😊
