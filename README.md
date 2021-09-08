@@ -17,6 +17,10 @@ while still making a functional, beautiful program.***
 5. Blender
 6. Unity
 
+### I'm interested in
+- Low level programming
+- How hardware works together
+
 ### You can contact me about
 - Job opportunities
 - Collab on a project
