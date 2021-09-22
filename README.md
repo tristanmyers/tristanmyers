@@ -18,7 +18,7 @@ while still making a functional, beautiful program.***
 6. Unity
 
 ### I'm interested in
-- Low level programming
+- Mid and low level programming
 - How hardware works together
 
 ### You can contact me about
