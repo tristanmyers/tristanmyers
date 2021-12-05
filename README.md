@@ -6,11 +6,11 @@ while still making a functional, beautiful program.***
 ---
 
 ### What I'm working on
-- I'm currently working on a website that features ecommerce, is being built with svelte, node/express, and some kind of non-relational database.
-- A mobile web app that will improve my experience as a viewer on [twitch.tv](https://twitch.tv), being built with python backend, I haven't decided on the frontend yet.
+- I'm currently working on a website that features ecommerce, is being built with react, node/express, and some kind of non-relational database.
+- A custom browser homepage that will make my browsing habits easier, as well as being a news aggregator. Not sure of the tech stack yet.
 
 ### What I'm learning
-1. Svelte
+1. React
 2. Typescript
 3. Website accessibility techniques
 4. Better code optimization.
@@ -20,6 +20,7 @@ while still making a functional, beautiful program.***
 ### I'm interested in
 - Mid and low level programming
 - How hardware works together
+- vuejs and reactjs
 
 ### You can contact me about
 - Job opportunities
