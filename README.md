@@ -12,7 +12,6 @@ while still making a functional, beautiful program.***
 ### What I'm learning
 1. React
 2. Typescript
-3. Golang
 4. Website accessibility techniques
 5. Better code optimization.
 6. Blender
@@ -21,7 +20,9 @@ while still making a functional, beautiful program.***
 ### I'm interested in
 - Mid and low level programming
 - How hardware works together
-- vuejs and reactjs
+- Vuejs
+- Golang
+- PHP/Laravel
 
 ### You can contact me about
 - Job opportunities
