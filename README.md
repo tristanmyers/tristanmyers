@@ -12,10 +12,11 @@ while still making a functional, beautiful program.***
 ### What I'm learning
 1. React
 2. Typescript
-3. Website accessibility techniques
-4. Better code optimization.
-5. Blender
-6. Unity
+3. Golang
+4. Website accessibility techniques
+5. Better code optimization.
+6. Blender
+7. Unity
 
 ### I'm interested in
 - Mid and low level programming
