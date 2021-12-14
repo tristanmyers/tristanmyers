@@ -6,7 +6,7 @@ while still making a functional, beautiful program.***
 ---
 
 ### What I'm working on
-- I'm currently working on a website that features ecommerce, is being built with react, node/express, and some kind of non-relational database.
+- I'm currently working on an ecommerce website, it's being built with react, this will be for learning react so I will not be doing a backend.
 - A custom browser homepage that will make my browsing habits easier, as well as being a news aggregator. Not sure of the tech stack yet.
 
 ### What I'm learning
