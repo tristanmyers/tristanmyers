@@ -1,7 +1,5 @@
 ### I'm practicing the development of modern websites and webapps
-***I focus on choosing the right tools for the job and writing the most optimized, readable code
-<br>
-while still making a functional, beautiful program.***
+***Functional, Optimized and Readable***
 
 ---
 
