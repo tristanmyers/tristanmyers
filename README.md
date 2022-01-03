@@ -1,5 +1,8 @@
-### I'm practicing the development of modern websites and webapps
-***Functional, Optimized and Readable***
+Hello, I'm a self taught full stack web developer, I encourage you to check out my projects under my pinned repos.
+
+I'm constantly improving my programming skills, soft skills and motivated to learn whatever I need for the job. 
+
+***Fully functioning, Optimized and Readable***
 
 ---
 
