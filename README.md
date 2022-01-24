@@ -22,7 +22,7 @@ I'm constantly improving my programming skills, soft skills and motivated to lea
 - Mid and low level programming
 - How hardware works together
 - Vuejs
-- Golang
+- Go
 - PHP/Laravel
 
 ### You can contact me about
