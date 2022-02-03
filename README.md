@@ -11,7 +11,12 @@ I'm constantly improving my programming skills, soft skills and motivated to lea
 - (Not started) A custom browser homepage that will make my browsing habits easier, as well as being a news aggregator. Not sure of the tech stack yet.
 
 ### What I'm learning
-1. Computer science things (not in university)
+#### Currently improving
+  - React
+  - UX
+  - Typescript
+  - Having a deeper understanding of CSS
+  - Programming fundamentals
 
 ### I'm interested in
 - Mid and low level programming
