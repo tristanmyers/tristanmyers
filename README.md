@@ -2,13 +2,12 @@ Hello, I'm a self taught web developer. I encourage you to check out my pinned r
 
 I'm constantly improving my programming skills, soft skills and motivated to learn whatever I need for the job. 
 
-***Functioning, Optimized and Readable***
-
 ---
 
 ### What I'm working on
-- I'm currently working on an ecommerce website, it's being built with react and tailwindcss, this will be for learning react so I will not be doing a backend.
-- A custom browser homepage that will make my browsing habits easier, as well as being a news aggregator. Preact, Nodejs, Typescript, MongoDB, Tailwind.
+- I'm currently working on the frontend for an ecommerce website, it's being built with react and tailwindcss, this will be for learning react so I will not be doing a backend.
+- A custom browser homepage that will make my browsing habits easier, with a news aggregator, favorite links and weather. 
+  - Preact, Nodejs, Typescript, MongoDB, Tailwind.
 
 ### What I'm learning
 #### Currently improving
