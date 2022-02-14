@@ -10,7 +10,7 @@ I'm constantly improving my programming skills, soft skills and motivated to lea
   - Preact, Nodejs, Typescript, MongoDB, Tailwind.
 
 ### What I'm learning
-#### Currently improving
+### Currently improving
   - React
   - UX
   - Typescript
