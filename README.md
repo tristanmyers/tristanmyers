@@ -8,7 +8,7 @@ I'm constantly improving my programming skills, soft skills and motivated to lea
 
 ### What I'm working on
 - I'm currently working on an ecommerce website, it's being built with react and tailwindcss, this will be for learning react so I will not be doing a backend.
-- (Not started) A custom browser homepage that will make my browsing habits easier, as well as being a news aggregator. Not sure of the tech stack yet.
+- A custom browser homepage that will make my browsing habits easier, as well as being a news aggregator. Preact, Nodejs, Typescript, MongoDB, Tailwind.
 
 ### What I'm learning
 #### Currently improving
@@ -19,10 +19,11 @@ I'm constantly improving my programming skills, soft skills and motivated to lea
   - Programming fundamentals
 
 ### I'm interested in
+- The deep depths of the browser and web apis
+- Vuejs
 - Mid and low level programming
 - How hardware works together
 - C
-- Vuejs
 - Go
 - PHP/Laravel
 
