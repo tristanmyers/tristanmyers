@@ -7,7 +7,7 @@ I'm constantly improving my programming skills, soft skills and motivated to lea
 ### What I'm working on
 - I'm currently working on the frontend for an ecommerce website, it's being built with react and tailwindcss, this will be for learning react so I will not be doing a backend.
 - A custom browser homepage that will make my browsing habits easier, with a news aggregator, favorite links and weather. 
-  - Tailwind, Javascript, Typescript, Node/Express, MongoDB.
+  - Javascript, Typescript, Node/Express, MongoDB.
 
 ### What I'm learning
 ### Currently improving
