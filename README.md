@@ -2,7 +2,7 @@ Hello, I'm a self taught web developer. I encourage you to check out my pinned r
 
 I'm constantly improving my programming skills, soft skills and motivated to learn whatever I need for the job.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tristanmyers&layout=compact&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tristanmyers&layout=compact&theme=gruvbox&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
