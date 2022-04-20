@@ -20,10 +20,7 @@ I'm constantly improving my programming skills, soft skills and motivated to lea
 
 ### I'm interested in
 - The deep depths of the browser and web apis
-- Vuejs
-- C
-- Go
-- PHP/Laravel
+- Vuejs, C, Go, PHP/Laravel
 - Mid and low level programming
 - How hardware works together
 
