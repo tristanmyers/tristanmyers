@@ -13,7 +13,7 @@ I'm constantly improving my programming skills, soft skills and motivated to lea
 ### What I'm learning
 ### Currently improving
   - React
-  - UX
+  - User experince knowledge
   - Typescript
   - Having a deeper understanding of CSS
   - Programming fundamentals
