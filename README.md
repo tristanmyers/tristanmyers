@@ -1,4 +1,4 @@
-Hello, I'm a self taught web developer. I encourage you to check out my pinned repos.
+Hello, I'm a self taught web developer. Feel free to check out my pinned repos.
 
 I'm constantly improving my programming skills, soft skills and motivated to learn whatever I need for the job.
 
