@@ -8,7 +8,7 @@ I'm constantly improving my programming skills, soft skills and motivated to lea
 
 ### What I'm working on
 - A custom browser homepage that will make my browsing habits easier, with a news aggregator, favorite links and weather. 
-  - Javascript, Typescript, Node/Express, MongoDB.
+  - Using Javascript, Typescript, Deno and Sqlite.
 
 ### What I'm learning
 ### Currently improving
@@ -22,7 +22,8 @@ I'm constantly improving my programming skills, soft skills and motivated to lea
 - The deep depths of the browser and web apis
 - Vuejs, C, Go, PHP/Laravel
 - Mid and low level programming
-- How hardware works together
+- Game development
+- Working with hardware
 
 ### You can contact me about
 - Job opportunities
