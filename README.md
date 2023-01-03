@@ -8,22 +8,24 @@ I'm constantly improving my programming skills, soft skills and motivated to lea
 
 ### What I'm working on
 - A custom browser homepage that will make my browsing habits easier, with a news aggregator, favorite links and weather. 
-  - Using Javascript, Typescript, Deno and Sqlite.
+  - Using Typescript, Deno and Sqlite.
 
 ### What I'm learning
+- The Nim programming language
+- Game development from scratch
+  - Graphics, engine, game logic, I'm using Nim for all of this.
+
 ### Currently improving
-  - React
   - User experince knowledge
-  - Typescript
-  - Having a deeper understanding of CSS
-  - Programming fundamentals
+  - Software architecture
 
 ### I'm interested in
-- The deep depths of the browser and web apis
-- Vuejs, C, Go, PHP/Laravel
-- Mid and low level programming
+- Web browsers under the hood
+- Server side development with Go and php/laravel
+- Native software development
 - Game development
-- Working with hardware
+- Embedded development
+- Electrical engineering
 
 ### You can contact me about
 - Job opportunities
