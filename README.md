@@ -1,6 +1,6 @@
-Hello, I'm a self taught web developer. Feel free to check out my pinned repos.
+Hello, I'm a self taught software engineer. Feel free to check out my pinned repos.
 
-I'm constantly improving my programming skills, soft skills and motivated to learn whatever I need for the job.
+Started with web development and very interested in many areas of software engineering as well as hardware engineering.
 
 ---
 
