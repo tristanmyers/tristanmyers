@@ -4,6 +4,18 @@ I'm constantly improving my programming skills, soft skills and motivated to lea
 
 ---
 
+### Skills I'm confident in
+- Front end web development
+  - Javascript
+  - Typescript
+  - ReactJS
+  - NextJS
+- Back end web development
+  - Javascript
+  - Typescript
+  - NodeJS
+  - Deno
+
 ### What I'm working on
 - A custom browser homepage that will make my browsing habits easier, with a news aggregator, favorite links and weather. 
   - Using Typescript, Deno and Sqlite.
@@ -14,8 +26,8 @@ I'm constantly improving my programming skills, soft skills and motivated to lea
   - Graphics, engine, game logic, I'm using Nim for all of this.
 
 ### Currently improving
-  - User experince knowledge
-  - Software architecture
+- User experince knowledge
+- Software architecture
 
 ### I'm interested in
 - Web browsers under the hood
