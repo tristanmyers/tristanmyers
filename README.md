@@ -9,12 +9,13 @@ Started with web development and very interested in many areas of software engin
   - Javascript
   - Typescript
   - ReactJS
-  - NextJS
+  
 - Back end web development
   - Javascript
   - Typescript
   - NodeJS
   - Deno
+  - NextJS
 
 ### What I'm working on
 - A custom browser homepage that will make my browsing habits easier, with a news aggregator, favorite links and weather. 
