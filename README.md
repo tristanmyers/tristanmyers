@@ -27,7 +27,7 @@ Started with web development and very interested in many areas of software engin
   - Graphics, engine, game logic, I'm using Nim for all of this.
 
 ### Currently improving
-- User experince knowledge
+- User experience knowledge
 - Software architecture
 
 ### I'm interested in
