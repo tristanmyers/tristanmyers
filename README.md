@@ -22,9 +22,9 @@ Started with web development and very interested in many areas of software engin
   - Using Typescript, Deno and Sqlite.
 
 ### What I'm learning
-- The Nim programming language
-- Game development from scratch
-  - Graphics, engine, game logic, I'm using Nim for all of this.
+- The C programming language
+- Game development
+  - Graphics, engine, physics
 
 ### Currently improving
 - User experience knowledge
