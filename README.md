@@ -5,7 +5,7 @@ Started with web development and very interested in many areas of software engin
 ---
 
 ### Technologies I'm familar with
-Javascript, Typescript, Python, C, Nim, Node, Deno, GraphQL, SQLite, GIT 
+Javascript, Typescript, Python, C, Nim, Node, Deno, GraphQL, SQLite, GIT, Shopify, Figma
 
 ### What I'm working on
 - A custom browser homepage that will make my browsing habits easier, with a news aggregator, favorite links and weather. 
