@@ -4,31 +4,17 @@ Started with web development and very interested in many areas of software engin
 
 ---
 
-### Skills I'm confident in
-- Front end web development
-  - Javascript
-  - Typescript
-  - ReactJS
-  
-- Back end web development
-  - Javascript
-  - Typescript
-  - NodeJS
-  - Deno
-  - NextJS
+### Technologies I'm familar with
+Javascript, Typescript, Python, C, Nim, Node, Deno, GraphQL, SQLite, GIT 
 
 ### What I'm working on
 - A custom browser homepage that will make my browsing habits easier, with a news aggregator, favorite links and weather. 
   - Using Typescript, Deno and Sqlite.
 
 ### What I'm learning
-- The C programming language
 - Game development
   - Graphics, engine, physics
-
-### Currently improving
-- User experience knowledge
-- Software architecture
+- All things artifical intelligence
 
 ### I'm interested in
 - Web browsers under the hood
@@ -37,6 +23,7 @@ Started with web development and very interested in many areas of software engin
 - Game development
 - Embedded development
 - Electrical engineering
+- Artificial intelligence
 
 ### You can contact me about
 - Job opportunities
