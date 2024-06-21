@@ -10,7 +10,7 @@ I'm also interested in hardware engineering and will eventually dive into that.
 Javascript, Typescript, Python, C, Rust, Nim, Node, Deno, GraphQL, SQLite, GIT, Shopify, Figma
 
 ### What I'm working on
-- A simple game with multiplayer capabilities. An emphasis on the mulitplayer part. In rust.
+- A simple game with multiplayer capabilities. An emphasis on the mulitplayer part.
 
 ### What I'm learning
 - Game development
