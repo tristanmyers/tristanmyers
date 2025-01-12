@@ -7,23 +7,26 @@ I'm also interested in hardware engineering and will eventually dive into that.
 ---
 
 ### Technologies I'm familar with
-Javascript, Typescript, Python, C, Rust, Nim, Node, Deno, GraphQL, SQLite, GIT, Shopify, Figma
+Javascript, Typescript, Python, C, Node, Deno, Bun, React, Svelte, GraphQL, SQLite, GIT, Shopify, Figma
 
 ### What I'm working on
-- A simple game with multiplayer capabilities. An emphasis on the mulitplayer part.
+- Teessandbox, a place for my creations to live.
+- Homepage, Any information I want to see regularly will live here. In theory this should keep
+me away from social media or at the least decrease my use of socials. It will allow me to correlate
+anything I am interested in into one place; somewhere I control. While keeping me up to date with
+what is going on with the internet and the world.
 
 ### What I'm learning
 - Game development
   - Graphics, engine, physics, multiplayer
+- General studies -> electrical engineering 
 
 ### I'm interested in
-- Web browsers under the hood
-- Server side development
-- Native software development
+- The web.
 - Game development
 - Embedded development
 - Electrical engineering
-- Artificial intelligence
+- Machine learning
 
 ### You can contact me about
 - Job opportunities
